@@ -1,4 +1,4 @@
-print('Input words: ')
+print("Input words: ")
 with open("new.txt", "w", encoding="utf - 8") as f:
     word = input()
     while word != " ":
