@@ -1,5 +1,6 @@
 import random
 print('Вариант 2 (четырехстопный амфибрахий):')
+print('----------------------------------------')
 str = ''
 with open('noun_m_sg.txt', encoding='utf-8') as file:
     file = file.read().split(' ')
